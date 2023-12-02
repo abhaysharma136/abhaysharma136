@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Abhay Sharma - Full Stack Developer<br>🚀 MERN Stack Enthusiast<br>🤖 Text-to-Code Wizard @ Consumable AI<br>📚 Bookworm & Lifelong Learner<br>🌐 Always exploring new skills and technologies
+👨‍💻 Abhay Sharma - Full Stack Developer<br>🚀 MERN Stack Enthusiast<br>🤖 Text-to-Code Wizard @ Consumable AI<br>📚 Bookworm & Lifelong Learner<br>🌐 Always exploring new skills and technologies<br>🧑‍💻 Portfolio 🔗: [https://spiffy-conkies-a292e0.netlify.app/]<br>📄 Resume 🔗: [https://drive.google.com/file/d/1pB1El7BhzgPI3dQQ-xJ3DjiYdJcViBz4/view]
 
 
 ## 🌐 Socials:
